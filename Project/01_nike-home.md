@@ -50,7 +50,7 @@
 #### -> Section3\_리스트
 
 <!-- ![이미지](/Project/img/01/List.png) -->
-<img src = "/Project/img/01/List.png" height="300px">
+<img src = "/Project/img/01/List.png" height="200px">
 
 #### -> Footer
 
@@ -67,25 +67,9 @@
 #### -> Section2\_필터
 
 <!-- ![이미지](/Project/img/01/Filter.png) -->
-<p align = "center">
-  <img src = "/Project/img/01/Filter.png" height="300px">
-</p>
+<img src = "/Project/img/01/Filter.png" height="300px">
 
-### 3. Login, Membership
-
-#### -> Section1\_로그인
-
-<!-- ![이미지](/Project/img/01/Login.png) -->
-<img src = "/Project/img/01/Login.png" height="300px">
-
-#### -> Section2\_회원가입
-
-<!-- ![이미지](/Project/img/01/Membership1.png)
-![이미지](/Project/img/01/Membership2.png) -->
-<img src = "/Project/img/01/Membership1.png" height="300px" align="left">
-<img src = "/Project/img/01/Membership2.png" height="300px" align="right">
-
-### 4. Notice
+### 3. Notice
 
 #### -> Section1\_고객센터
 
@@ -96,3 +80,20 @@
 
 <!-- ![이미지](/Project/img/01/Notice.png) -->
 <img src = "/Project/img/01/Notice.png" height="300px">
+
+### 4. Login, Membership
+
+#### -> Section1\_로그인
+
+<!-- ![이미지](/Project/img/01/Login.png) -->
+<img src = "/Project/img/01/Login.png" height="300px">
+
+#### -> Section2\_회원가입
+
+<!-- ![이미지](/Project/img/01/Membership1.png)
+![이미지](/Project/img/01/Membership2.png) -->
+<div>
+      <img src="/Project/img/01/Membership1.png" height="300px" align="left" />
+      <img src="/Project/img/01/Membership2.png" height="300px" align="left" />
+</div>
+<br>
