@@ -28,7 +28,7 @@
 
 ## # 구현할 화면 분석
 
-### [NIKE KOREA](https://www.nike.com/kr)
+### 나이키 홈페이지 : [NIKE KOREA](https://www.nike.com/kr)
 
 ### 1. Main Page
 
@@ -67,21 +67,11 @@
 #### -> Section2\_필터
 
 <!-- ![이미지](/Project/img/01/Filter.png) -->
-<img src = "/Project/img/01/Filter.png" height="300px">
+<p align="left">
+    <img src = "/Project/img/01/Filter.png" height="300px">
+</p>
 
-### 3. Notice
-
-#### -> Section1\_고객센터
-
-<!-- ![이미지](/Project/img/01/CustomerService.png) -->
-<img src = "/Project/img/01/CustomerService.png" height="300px">
-
-#### -> Section2\_공지사항
-
-<!-- ![이미지](/Project/img/01/Notice.png) -->
-<img src = "/Project/img/01/Notice.png" height="300px">
-
-### 4. Login, Membership
+### 3. Login, Membership
 
 #### -> Section1\_로그인
 
@@ -92,8 +82,19 @@
 
 <!-- ![이미지](/Project/img/01/Membership1.png)
 ![이미지](/Project/img/01/Membership2.png) -->
-<div>
-      <img src="/Project/img/01/Membership1.png" height="300px" align="left" />
-      <img src="/Project/img/01/Membership2.png" height="300px" align="left" />
-</div>
-<br>
+<p align="left">
+      <img src="/Project/img/01/Membership1.png" height="300px"/>
+      <img src="/Project/img/01/Membership2.png" height="300px"/>
+</p>
+
+### 4. Notice
+
+#### -> Section1\_고객센터
+
+<!-- ![이미지](/Project/img/01/CustomerService.png) -->
+<img src = "/Project/img/01/CustomerService.png" height="300px">
+
+#### -> Section2\_공지사항
+
+<!-- ![이미지](/Project/img/01/Notice.png) -->
+<img src = "/Project/img/01/Notice.png" height="300px">
