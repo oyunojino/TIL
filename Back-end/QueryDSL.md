@@ -52,14 +52,6 @@ flowchart LR;
     n1 ---|1:1| n4(StoreCategory);
 ```
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
 ## # Querydsl 설정 방법
 
 ### 1. Querydsl - jpa 의존성 추가
