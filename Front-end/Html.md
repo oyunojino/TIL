@@ -202,7 +202,7 @@
 #### Table\_ `<caption>`,`<thead>`, `<tbody>`, `<tfoot>`
 
 <!-- ![이미지](/Front-end/img/tag_table.png) -->
-<img src = "/Front-end/img/tag_table.png" height="100px">
+<img src = "/Front-end/img/tag_table.png" height="150px">
 
 ```html
 <table border="1">
@@ -555,7 +555,7 @@ flowchart TB
 #### Input\_ `<input>`
 
 <!-- ![이미지](/Front-end/img/tag_input_text_2.png) -->
-<img src = "/Front-end/img/tag_input_text_2.png" height="100px">
+<img src = "/Front-end/img/tag_input_text_2.png" height="80px">
 
 ```html
 <!--
@@ -605,11 +605,11 @@ flowchart TB
 
 <p align="left">
 <!-- ![이미지](/Front-end/img/tag_input_multi.png) -->
-<img src = "/Front-end/img/tag_input_multi.png" height="250px">
+<img src = "/Front-end/img/tag_input_multi.png" height="150px">
 <!-- ![이미지](/Front-end/img/tag_input_multi_email.png) -->
-<img src = "/Front-end/img/tag_input_multi_email.png" height="250px">
+<img src = "/Front-end/img/tag_input_multi_email.png" height="150px">
 <!-- ![이미지](/Front-end/img/tag_input_multi_num_url.png) -->
-<img src = "/Front-end/img/tag_input_multi_num_url.png" height="250px">
+<img src = "/Front-end/img/tag_input_multi_num_url.png" height="150px">
 </p>
 
 ```html
@@ -643,7 +643,7 @@ flowchart TB
 ```
 
 <!-- ![이미지](/Front-end/img/tag_input_multi_radio_checkbox.png) -->
-<img src = "/Front-end/img/tag_input_multi_radio_checkbox.png" height="250px">
+<img src = "/Front-end/img/tag_input_multi_radio_checkbox.png" height="150px">
 
 ```html
 <form action="test.php">
@@ -695,9 +695,9 @@ flowchart TB
 ```
 
 <!-- ![이미지](/Front-end/img/tag_input_multi_2.png) -->
-<img src = "/Front-end/img/tag_input_multi_2.png" height="250px">
+<img src = "/Front-end/img/tag_input_multi_2.png" height="150px">
 <!-- ![이미지](/Front-end/img/tag_input_multi_2_error.png) -->
-<img src = "/Front-end/img/tag_input_multi_2_error.png" height="250px">
+<img src = "/Front-end/img/tag_input_multi_2_error.png" height="150px">
 
 ```html
 <form action="test.php">
@@ -732,7 +732,7 @@ flowchart TB
 #### Select\_ `<select>`, `<option>`, `<optgroup>`
 
 <!-- ![이미지](/Front-end/img/tag_select.png) -->
-<img src = "/Front-end/img/tag_select.png" height="200px">
+<img src = "/Front-end/img/tag_select.png" height="150px">
 
 ```html
 <!-- 
@@ -830,7 +830,7 @@ flowchart TB
 #### Textarea\_ `<textarea>`
 
 <!-- ![이미지](/Front-end/img/tag_textarea.png) -->
-<img src = "/Front-end/img/tag_textarea.png" height="250px">
+<img src = "/Front-end/img/tag_textarea.png" height="200px">
 
 ```html
 <!-- 
