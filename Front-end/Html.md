@@ -445,6 +445,8 @@ flowchart TB
 </form>
 ```
 
+---
+
 <!-- ![이미지](/Front-end/img/tag_input_login.png) -->
 <img src = "/Front-end/img/tag_input_login.png" height="100px">
 
@@ -492,6 +494,8 @@ flowchart TB
   </form>
 </body>
 ```
+
+---
 
 <!-- ![이미지](/Front-end/img/tag_input_fieldset.png) -->
 <img src = "/Front-end/img/tag_input_fieldset.png" height="100px">
@@ -603,6 +607,8 @@ flowchart TB
 </form>
 ```
 
+---
+
 <p align="left">
 <!-- ![이미지](/Front-end/img/tag_input_multi.png) -->
 <img src = "/Front-end/img/tag_input_multi.png" height="150px">
@@ -642,6 +648,8 @@ flowchart TB
 </form>
 ```
 
+---
+
 <!-- ![이미지](/Front-end/img/tag_input_multi_radio_checkbox.png) -->
 <img src = "/Front-end/img/tag_input_multi_radio_checkbox.png" height="150px">
 
@@ -670,6 +678,8 @@ flowchart TB
 </form>
 ```
 
+---
+
 <!-- ![이미지](/Front-end/img/tag_input_upload.png) -->
 <img src = "/Front-end/img/tag_input_upload.png" height="100px">
 
@@ -694,10 +704,14 @@ flowchart TB
 </form>
 ```
 
+---
+
 <!-- ![이미지](/Front-end/img/tag_input_multi_2.png) -->
+<p align="left">
 <img src = "/Front-end/img/tag_input_multi_2.png" height="150px">
 <!-- ![이미지](/Front-end/img/tag_input_multi_2_error.png) -->
 <img src = "/Front-end/img/tag_input_multi_2_error.png" height="150px">
+</p>
 
 ```html
 <form action="test.php">
@@ -758,6 +772,8 @@ flowchart TB
 </form>
 ```
 
+---
+
 <!-- ![이미지](/Front-end/img/tag_select_optgroup.png) -->
 <img src = "/Front-end/img/tag_select_optgroup.png" height="300px">
 
@@ -809,6 +825,8 @@ flowchart TB
   </datalist>
 </form>
 ```
+
+---
 
 <!-- ![이미지](/Front-end/img/tag_datalist_option.png) -->
 <img src = "/Front-end/img/tag_datalist_option.png" height="300px">
